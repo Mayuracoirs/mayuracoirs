@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Mayura Coirs
 
-You can use the [editor on GitHub](https://github.com/Mayuracoirs/mayuracoirs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Manufacturer of high quality coco pith blocks and coirs products. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Coco Pith uses 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A spongy material that binds the coconut fibre in the husk, coir pith is finding new applications. It is an excellent soil conditioner and is being extensively used as a soil-less medium for agri-horticultural purposes. With its moisture retention qualities, coir pith is ideal for growing anthuriums and orchids. Available in raw form or converted into organic manure.
 
 ```markdown
 Syntax highlighted code block
